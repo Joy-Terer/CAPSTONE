@@ -1,0 +1,130 @@
+<mxfile host="Electron" modified="2023-10-27T19:35:22.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="fNRjO_D4YS1v7P8Jn9_X" version="22.0.2" type="device">
+  <diagram name="Page-1" id="4A0b5eOWH3Jw-ID7cukP">
+    <mxGraphModel dx="844" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NyuAY_UwFsKjLJzl8jef-2" target="NyuAY_UwFsKjLJzl8jef-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-2" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="350" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NyuAY_UwFsKjLJzl8jef-3" target="NyuAY_UwFsKjLJzl8jef-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NyuAY_UwFsKjLJzl8jef-3" target="NyuAY_UwFsKjLJzl8jef-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-3" value="Input passengers details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NyuAY_UwFsKjLJzl8jef-4" target="NyuAY_UwFsKjLJzl8jef-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NyuAY_UwFsKjLJzl8jef-4" target="NyuAY_UwFsKjLJzl8jef-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-4" value="Username:&lt;br&gt;Password:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-5" value="EXIT THE PROGRAM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NyuAY_UwFsKjLJzl8jef-6" target="NyuAY_UwFsKjLJzl8jef-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-6" value="create a username:&lt;br&gt;create a password:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyuAY_UwFsKjLJzl8jef-13" target="NyuAY_UwFsKjLJzl8jef-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyuAY_UwFsKjLJzl8jef-13" target="NyuAY_UwFsKjLJzl8jef-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-13" value="IF &lt;br&gt;login was successful" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="370" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyuAY_UwFsKjLJzl8jef-15" target="fmbYREmsknsCUDOe33-p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-15" value="LOGIN SUCCESSFUL" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyuAY_UwFsKjLJzl8jef-17" value="&amp;nbsp; &amp;nbsp; LOGIN WAS NOT SUCCESSFUL&lt;br&gt;TRY AGAIN!" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="530" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-3" target="fmbYREmsknsCUDOe33-p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-3" target="fmbYREmsknsCUDOe33-p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-3" value="1.Add bus schedule&lt;br&gt;2.View bus schedule" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="520" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-4" target="fmbYREmsknsCUDOe33-p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-4" value="ENTER DESTINATION" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-5" target="fmbYREmsknsCUDOe33-p-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-5" value="BUS DETAILS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="545" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-8" target="fmbYREmsknsCUDOe33-p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-8" value="LOOKUP BUSES WITH THE REQUIRED DESTINATION" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-10" target="fmbYREmsknsCUDOe33-p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-10" value="SELECT BUS&lt;br&gt;DISPLAY AVAILABLE SEATS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-12" target="fmbYREmsknsCUDOe33-p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-12" value="CHOOSE SEAT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1330" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-14" target="fmbYREmsknsCUDOe33-p-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-14" value="TEXT RECEIPT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-16" target="fmbYREmsknsCUDOe33-p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-16" value="view bookings made?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1490" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-18" target="fmbYREmsknsCUDOe33-p-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1700" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmbYREmsknsCUDOe33-p-19" target="fmbYREmsknsCUDOe33-p-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-19" value="display history of bookings made" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-22" value="STOP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="2070" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmbYREmsknsCUDOe33-p-28" value="DISPLAY BUS DETAILS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
